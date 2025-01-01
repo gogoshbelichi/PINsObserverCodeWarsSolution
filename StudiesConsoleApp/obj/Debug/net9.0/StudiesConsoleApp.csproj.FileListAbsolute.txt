@@ -1,0 +1,14 @@
+C:\Users\Gogosh\RiderProjects\StudiesConsoleApp\StudiesConsoleApp\bin\Debug\net9.0\StudiesConsoleApp.exe
+C:\Users\Gogosh\RiderProjects\StudiesConsoleApp\StudiesConsoleApp\bin\Debug\net9.0\StudiesConsoleApp.deps.json
+C:\Users\Gogosh\RiderProjects\StudiesConsoleApp\StudiesConsoleApp\bin\Debug\net9.0\StudiesConsoleApp.runtimeconfig.json
+C:\Users\Gogosh\RiderProjects\StudiesConsoleApp\StudiesConsoleApp\bin\Debug\net9.0\StudiesConsoleApp.dll
+C:\Users\Gogosh\RiderProjects\StudiesConsoleApp\StudiesConsoleApp\bin\Debug\net9.0\StudiesConsoleApp.pdb
+C:\Users\Gogosh\RiderProjects\StudiesConsoleApp\StudiesConsoleApp\obj\Debug\net9.0\StudiesConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gogosh\RiderProjects\StudiesConsoleApp\StudiesConsoleApp\obj\Debug\net9.0\StudiesConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Gogosh\RiderProjects\StudiesConsoleApp\StudiesConsoleApp\obj\Debug\net9.0\StudiesConsoleApp.AssemblyInfo.cs
+C:\Users\Gogosh\RiderProjects\StudiesConsoleApp\StudiesConsoleApp\obj\Debug\net9.0\StudiesConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Gogosh\RiderProjects\StudiesConsoleApp\StudiesConsoleApp\obj\Debug\net9.0\StudiesConsoleApp.dll
+C:\Users\Gogosh\RiderProjects\StudiesConsoleApp\StudiesConsoleApp\obj\Debug\net9.0\refint\StudiesConsoleApp.dll
+C:\Users\Gogosh\RiderProjects\StudiesConsoleApp\StudiesConsoleApp\obj\Debug\net9.0\StudiesConsoleApp.pdb
+C:\Users\Gogosh\RiderProjects\StudiesConsoleApp\StudiesConsoleApp\obj\Debug\net9.0\StudiesConsoleApp.genruntimeconfig.cache
+C:\Users\Gogosh\RiderProjects\StudiesConsoleApp\StudiesConsoleApp\obj\Debug\net9.0\ref\StudiesConsoleApp.dll
